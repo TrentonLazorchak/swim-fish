@@ -1,5 +1,4 @@
 # swim-fish
-My swim-fish iOS game that got denied by apple for iOS store.
+Fun entertaining iOS game using XCode, Swift and SpriteKit.
 
-Feel free to use all assets and code as you wish.
-Twitter: @trentonlaz 
+Instructions on how to play included in Main Menu.
